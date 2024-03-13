@@ -1,24 +1,49 @@
-# Fullstack MERN Blogging Website
+# GCER Blogs🧾
 
-Fork this repo of "MERN Blogging Website" to start following the video tutorial.
+Welcome to GECR Blogs - a platform designed for college seniors to share their experiences, guide juniors, and engage in meaningful discussions through blogs. Whether you're looking to document your journey, offer advice, or seek insights from others, GECR Blogs provides the perfect avenue for connecting with your peers.
 
-Checkout website demo - [Demo](https://youtu.be/J7BGuuuvDDk)
+check the website here:- https://gecr-blogs.netlify.app
 
-![Thumbnail](https://c10.patreonusercontent.com/4/patreon-media/p/post/90122909/dd5363bd03fb4a6c8fcd5d15df98e6bf/eyJ3Ijo4MjB9/1.png?token-time=1697414400&token-hash=BZ-Mzp19WnBLcCFB8LmJFDw98mpnCRGcOCt_T615miY%3D)
+# Features 🎈
+1. Modern Blog Editor: Utilize Editor JS for a seamless writing experience.<br>
+2. Google Authentication: Easily sign in using your Google account.<br>
+3. Dynamic Blog Pages: Each blog has its unique URL for easy sharing and navigation.<br>
+4. Search Page: Find blogs and users quickly with our intuitive search feature.<br>
+5. Dedicated User Profiles: Showcase your social links and written blogs on your personalized profile.<br>
+6. Dashboard: Manage your blogs, whether they are published or drafts, from one convenient location.<br>
+7. Blog Post Analytics: Gain insights into your blog's performance, with options to edit or delete as needed.<br>
+8. Engagement Features: Interact with blogs through likes and comments.<br>
+9. Nested Comment System: Reply to comments for deeper discussions.<br>
+10 Notification System: Stay updated with real-time notifications for interactions on your posts.<br>
+11 Recent Notification Highlight: Easily distinguish recent notifications from older ones.<br>
+12 Edit Profile: Customize your profile by updating social links, bio, and username.<br>
+13 Password Change: Securely update your login password directly from the settings.<br>
+14 Mobile Responsive Design: Enjoy a seamless browsing experience across devices with modern design and fade-in animations.
 
-This website features include -
-1. Modern Blog Editor using Editor JS.
-2. Google Authentication for Users
-3. Dynamic Blog Pages on dynamic urls.
-4. Search Page for Searching Blogs & users.
-5. Dedicated Users Profile with thier social links and written blogs.
-6. Dedicated dashboard to manage blogs either published or draft.
-7. Blog Post Analytics, editable and deletable.
-8. Like interaction on Blogs with feature to comment on the blog.
-9. Reply to comments. ( A nested Comment System )
-10. Every interaction on site stores as a notification for their respective users.
-11. Recent notification highlight separating them from old notifications.
-12. Edit profile option to update social links, bio and username
-13. Also user can change login password from settings.
-14. Its mobile responsive with modern design + fade in animation on pages.
-And much more.
+# Getting Started 👇:-
+To start sharing your experiences and engaging with fellow seniors and juniors:
+
+Sign in using your Google account.
+Create your profile and update it with your social links.
+Start writing your blog posts or explore existing ones.
+Engage with other users through likes, comments, and replies.
+Stay updated with notifications for interactions on your posts.
+Explore the search feature to discover new blogs and users.
+
+# Contributing ⭕✨
+We welcome contributions from the community to enhance the platform further. Whether it's suggesting new features, reporting bugs, or contributing code, your input is valuable in making GECR Blogs a better place for everyone.
+
+# Feedback 
+If you have any feedback, suggestions, or encounter any issues while using GECR Blogs, please don't hesitate to reach out. Your feedback helps us improve and tailor the platform to better suit your needs.
+
+Contact
+For inquiries or assistance, feel free to contact us at rsharma114962@gmail.com
+
+Happy blogging!
+
+GECR Blogs Team
+
+
+
+
+
